@@ -1,0 +1,4 @@
+
+name: parse.json
+inc: ./j/include
+src: ./j/src/lib_json
